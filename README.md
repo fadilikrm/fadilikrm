@@ -1,3 +1,3 @@
 # HI EVERYONE!!
-Perkenalkan nama saya **AHMAD FADHIL IKRAM**.\
+Perkenalkan nama saya **AHMAD FADHIL IKRAM**.
 
