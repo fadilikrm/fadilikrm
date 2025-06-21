@@ -1,22 +1,25 @@
 ### Hi! 👋 I'm Fadil.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+An independent Software Engineer passionate about creating impactful projects using Python, especially in automation and AI. I enjoy leveraging technology to solve real-world problems and share knowledge with the community.
 
-I'm currently active in contributing as student at <a href="poliupg.ac.id">@dicodingacademy</a> to build courses in Front-End Apps (Web) and Back-End Service.
+Currently, I'm actively contributing as a student at <a href="poliupg.ac.id">@dicodingacademy</a> where I help develop courses in Front-End Apps (Web) and Back-End Service.
 
-- 🌱 I’m currently learning about full stack development in website
-- 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: fadilikram087@gmail.com
-- ⚡ Fun fact: I Like Tofu a lot
+- 🌱 I’m currently focused on mastering full stack development and building automation solutions with Python
+- 💬 Feel free to ask me about Python, automation, web development, or AI
+- 📫 Reach me at: fadilikram087@gmail.com
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
+  <a href="#"><img align="left" alt="Python" title="Python" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+  <a href="https://pandas.pydata.org/"><img align="left" alt="Pandas" title="Pandas" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></a>
+  <a href="https://numpy.org/"><img align="left" alt="NumPy" title="NumPy" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
+  <a href="https://jupyter.org/"><img align="left" alt="Jupyter" title="Jupyter Notebook" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /></a>
+  <a href="https://www.selenium.dev/"><img align="left" alt="Selenium" title="Selenium (Automation)" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /></a>
+  <a href="https://scikit-learn.org/"><img align="left" alt="Scikit-Learn" title="Scikit-Learn" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" /></a>
+  <a href="https://www.tensorflow.org/"><img align="left" alt="TensorFlow" title="TensorFlow" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
+  <a href="https://pytorch.org/"><img align="left" alt="PyTorch" title="PyTorch" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></a>
   <br>
   <br>
+
   
 ### Github Statistic
 <p align="left">
