@@ -10,10 +10,13 @@ Currently, I'm actively contributing as a student at <a href="poliupg.ac.id">@di
 
 ### Tech Stack
 <a href="#"><img align="left" alt="Python" title="Python" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-<a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /></a>
 <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a>
+<a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /></a>
+<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+<a href="#"><img align="left" alt="TypeScript" title="TypeScript/TSX" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
 <br>
 <br>
+
   
 ### Github Statistic
 <p align="left">
