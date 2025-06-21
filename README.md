@@ -2,10 +2,10 @@
 
 An independent Software Engineer passionate about creating impactful projects using Python, especially in automation and AI. I enjoy leveraging technology to solve real-world problems and share knowledge with the community.
 
-Currently, I'm actively contributing as a student at <a href="poliupg.ac.id">@dicodingacademy</a> where I help develop courses in Front-End Apps (Web) and Back-End Service.
+Currently, I'm actively contributing as a student at <a href="https://poliupg.ac.id/">Politeknik Negeri Ujung Pandang</a> where I developing my skills in website, mobile, and AI.
 
 - 🌱 I’m currently focused on mastering full stack development and building automation solutions with Python
-- 💬 Feel free to ask me about Python, automation, web development, or AI
+- 💬 Feel free to ask me about Python, Mobile, Website, or AI
 - 📫 Reach me at: fadilikram087@gmail.com
 
 ### Tech Stack
