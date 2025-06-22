@@ -20,11 +20,12 @@ Currently, I'm actively contributing as a student at <a href="https://poliupg.ac
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/fadilikrm">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fadilikrm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fadilikrm&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/fadilikrm">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fadilikrm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=0"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadilikrm&layout=compact&langs_count=8&theme=algolia&cache_seconds=0"/>
+  </a>
 </p>
+
 
 ### Reach me on
 - <a href="https://linkedin.com/in/ahmad-fadhil-ikram/">LinkedIn</a>
